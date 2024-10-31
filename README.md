@@ -14,11 +14,12 @@ Projeto desenvolvido como parte do Santander Bootcamp 2023 - Ciência de Dados c
 ## Página 1
 
 
-<img src="Report\Print_page1.jpg">
+![image](https://github.com/user-attachments/assets/93ad1842-e6b1-4ab6-a93f-20db275d4801)
+
 
 ## Página 2
 
-<img src="Report\Print_page2.jpg">
+![image](https://github.com/user-attachments/assets/e96643c1-df45-4a3f-93ba-6471b8e82b4c)
 
 
 
